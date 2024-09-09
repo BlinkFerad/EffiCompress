@@ -1,6 +1,6 @@
 EffiCompress: Efficient File Formatting Interface
 
-EffiCompress is a Python-based application designed to streamline file compression into various formats, including OBB, RAR, and ZIP. It features password protection and the option to delete the original file after compression. The application is currently under development, with additional features anticipated in future updates.
+EffiCompress is an advanced Python-based application engineered to optimize file compression across multiple formats, including OBB, RAR, and ZIP. This tool offers robust features such as password protection for secure file handling, the option to delete the original file post-compression, and a comprehensive view of recently modified files. Users can also decompile these files, although a password will be required if the file is encrypted. Currently, EffiCompress is in development, with plans for additional functionalities in future updates.
 
 EffiCompress: Runs On Linux, macOS, Windows
 
