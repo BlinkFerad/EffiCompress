@@ -14,6 +14,8 @@ If you wish to support my work, please click the 'Donate' button in the app. You
 
 EffiCompress: Runs On Linux, macOS, Windows
 
+Mobile Root Access Code " GhdSu8 " In The KeyCode Button
+
 ------------------------------------------------------------------------------------
 
 Installation Instructions for EffiCompress:
