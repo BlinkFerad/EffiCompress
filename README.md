@@ -2,6 +2,8 @@ Warning: RAR Configuration Currently Unavailable Aswell Is Phone Access
 
 Please note that at the moment, RAR file compression functionality is not supported. If you attempt to compress files into a RAR format, the output will not be displayed or processed correctly. We recommend using ZIP or OBB formats for your compression needs. We apologize for any inconvenience and are working to improve this feature in future updates.
 
+Please note that EffiCompress, the Efficient File Formatting Interface, is currently in beta. As such, some features may not be fully operational at this time. Specifically, the Mobile button for opening file code on mobile devices, the Rebuild button for selecting and resetting connected devices, the Virus Check button for scanning files for malware, the Image Search button, and the OBB Decompression feature may not function as expected. These issues may be due to incomplete development or missing drivers. Rest assured, these features will be completed and fully functional in the near future. We appreciate your understanding and patience.
+
 Also please note you do need to install python to access this.
 
 EffiCompress: Efficient File Formatting Interface
