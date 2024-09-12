@@ -16,6 +16,7 @@ EffiCompress: Runs On Linux, macOS, Windows
 
 Mobile Root Access Code " GhdSu8 " In The KeyCode Button
 
+Warning: Root access has not been tested yet, so please use it at your own risk.
 ------------------------------------------------------------------------------------
 
 Installation Instructions for EffiCompress:
